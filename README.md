@@ -1,9 +1,9 @@
-## Bem-vindo(a) ao perfil do LBX57
+## Bem-vindo(a) ao perfil do Leandro Mendonça Dev
 
  <div>
-   <a href="https://github.com/lbx57">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lbx57&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lbx57&layout=compact&langs_count=6&theme=tokyonight"/>
+   <a href="https://github.com/leandromendoncadev">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leandromendoncadev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandromendoncadev&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
     
 <div style="display: inline_block"><br>
